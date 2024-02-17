@@ -1,0 +1,15 @@
+{
+	"code": 200,
+	"msg": "成功",
+	"data": [
+		{
+			"id": 1,
+			"name": "麻花game",
+			"text": "棋牌游戏",
+			"logo_img": "hnth_height_logo.png",
+			"hold_img": ["bg_2.png", "game_icon2.png"],
+			"down_url": "https://gc-1253752170.cos.ap-guangzhou.myqcloud.com/ybmj.apk",
+			"description": ""
+		}
+	]
+}
